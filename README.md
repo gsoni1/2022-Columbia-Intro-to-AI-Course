@@ -15,6 +15,9 @@ Desert: 95.1% Accuracy
 
 Forest: 100% Accuracy
 
+### Script
+desertclassscript.ipynb -> Run in Terminal
+
 ### Links
 Dataset: https://www.kaggle.com/datasets/akhiljethwa/forest-vs-desert
 
